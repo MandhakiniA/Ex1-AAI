@@ -8,7 +8,6 @@ Experiment 1
 ### Aim :
     To create a bayesian Network for the given dataset in Python
 ###  Algorithm:
-~~~
 Step 1:Import necessary libraries: pandas, networkx, matplotlib.pyplot, Bbn, Edge, EdgeType, BbnNode, Variable, EvidenceBuilder, InferenceController<br/>
 Step 2:Set pandas options to display more columns<br/>
 Step 3:Read in weather data from a CSV file using pandas<br/>
@@ -23,7 +22,6 @@ Step 11:Set node positions for the graph<br/>
 Step 12:Set options for the graph appearance<br/>
 Step 13:Generate the graph using networkx<br/>
 Step 14:Update margins and display the graph using matplotlib.pyplot<br/>
-~~~
 ### Program:
 ~~~
 import pandas as pd
@@ -83,9 +81,9 @@ ax.margins(0.10)
 plt.axis("off")
 plt.show()
 ~~~
-### Output:
+### OUTPUT:
 ![image](https://github.com/user-attachments/assets/83a8955c-0d3b-4b74-9d70-b125e13409ca)
 
-### Result:
+### RESULT:
    Thus a Bayesian Network is generated using Python
 
