@@ -1,10 +1,5 @@
-~~~
-Name : A.Mandhakini
-Register No : 212223100030
-Experiment 1
-~~~
-<H3>DATE:</H3>
-<H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+
+
 ### Aim :
     To create a bayesian Network for the given dataset in Python
 ###  Algorithm:
